@@ -1,23 +1,25 @@
 <html>
     <head>
-        <title>construction blog</title>
+        <title>construction's blog</title>
     </head>
     <body>
         <div>
-            <h1><a href="">Construction blog</a></h1>
+            <h1><a href="">Construction blog for Andrew</a></h1>
         </div>
 
-        <div>
-            <p>published: 14.06.2016, 12:14</p>
-            <h2><a href="">My first post</a></h2>
-            <p>The building is most hopeful and exciting branch in the world</p>
-	    <p>My wife's name is Natalia</p>
-        </div>
+	
+	    {% for post in posts %}
+	    <div>
+                <p>published: {{ post.published_date }}</p>
+                <h1><a href="">{{ post.title }}</a></h1>
+                <p>{{ post.text|linebreaksbr }}</p>
 
-        <div>
-            <p>published: 19.01.2017, 12:14</p>
-            <h2><a href="">My second post</a></h2>
-            <p>At the moment we are building two objects in Lviv region</p>
-        </div>
+
+                
+	    </div>
+
+	    {% endfor %}
+	
+
     </body>
 </html>
