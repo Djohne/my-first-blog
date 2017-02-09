@@ -1,21 +1,25 @@
+
+{% load staticfiles %}
 <html>
     <head>
+	
+	<link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+    	<link rel="stylesheet" href="{% static 'css/blog.css' %}">
         <title>construction's blog</title>
     </head>
     <body>
-        <div>
-            <h1><a href="">Construction blog for Andrew</a></h1>
+        <div class="page-header">
+            <h2><a href="">Construction blog for Andrew</a></h2>
         </div>
 
 	
 	    {% for post in posts %}
-	    <div>
+	    <div class="post">
                 <p>published: {{ post.published_date }}</p>
-                <h1><a href="">{{ post.title }}</a></h1>
+                <h2><a href="">{{ post.title }}</a></h2>
                 <p>{{ post.text|linebreaksbr }}</p>
-
-
-                
 	    </div>
 
 	    {% endfor %}
