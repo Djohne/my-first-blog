@@ -1,0 +1,137 @@
+[33mcommit 4716069b2883612bc7e30d9f7ed57b7dfd8cc200[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Mon Dec 25 10:12:20 2017 +0200
+
+    Changed the HTML for the site.
+
+[33mcommit 0ddfc2e65023229ff2822dd21183dce934a6e181[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Sun Apr 30 12:01:33 2017 +0300
+
+    Added view and template for detailed blog post as well as CSS for the site.
+
+[33mcommit 61e2efda708185c059991fb35643e3a3385d27f6[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Fri Feb 10 07:03:56 2017 +0200
+
+    Changed the HTML for the site.
+
+[33mcommit 180e2ea2cd18e09303b54d259c20ad6169d93fa9[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Thu Feb 9 21:44:41 2017 +0200
+
+    Changed the HTML for the site.
+
+[33mcommit 492855b2629c7f7593c7895a160ef31c634e0dd3[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Thu Feb 9 21:33:28 2017 +0200
+
+    Changed the HTML for the site.
+
+[33mcommit 2196a0344067c749b8462613eb435331680dd768[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Thu Feb 9 21:28:15 2017 +0200
+
+    Changed the HTML for the site.
+
+[33mcommit 68b55d20b02fc1c521fbd06999abe27f6dd59987[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Thu Feb 9 20:10:28 2017 +0200
+
+    Changed the HTML for the site.
+
+[33mcommit b44e0894c571c4ff75a83f19dce1f0df210a7ddd[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Thu Feb 9 07:20:25 2017 +0200
+
+    Changed the HTML for the site.
+
+[33mcommit 474b51fa5bdbe0cf2b28b77fef32505c9d408cb8[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Thu Feb 9 07:12:55 2017 +0200
+
+    Changed the HTML for the site.
+
+[33mcommit 9823d3076908a60c846595a32ddc21fa9f3b441f[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Thu Feb 9 07:01:29 2017 +0200
+
+    Changed the HTML the site.
+
+[33mcommit 4418d016eab2202f86949f5e7f5f46cc1149ba12[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Sun Jan 29 17:55:10 2017 +0200
+
+    Modified templates to display posts from database.
+
+[33mcommit db515b5f145aa8224801a168bf86e4983949e88c[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Sun Jan 29 13:40:42 2017 +0200
+
+    Modified template to display posts from database
+
+[33mcommit 6a5555196386aea66ec50d79a7cc67c575b40bf0[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Mon Jan 23 22:07:37 2017 +0200
+
+    Changed the HTML for the site.
+
+[33mcommit faf03ae86d120f66995e51df0f3f5ddb90a87742[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Thu Jan 19 19:29:08 2017 +0200
+
+    Changed the HTML for the site.
+
+[33mcommit 6fb708516674d2ae32bfe3faa30a17d87581de2a[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Sat Jun 25 10:08:26 2016 +0300
+
+    Changed the HTML for the site.
+
+[33mcommit b0536bb1a1f0ea41eee4c9230e056f83de813705[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Sun Jun 19 14:31:13 2016 +0300
+
+    Changed the HTML for the site.
+
+[33mcommit af5734a07cc920c23096f58070f34e9a79570000[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Sun Jun 19 13:54:16 2016 +0300
+
+    Changed the HTML for the site.
+
+[33mcommit 82c49af0712d5b352e1746a9a66d019f31064aa7[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Sun Jun 19 12:20:02 2016 +0300
+
+    Changed the HTML for the site.
+
+[33mcommit 148835b366ac48eab5feda22873d9df237a1edfd[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Sun Jun 19 10:38:32 2016 +0300
+
+    Changed the HTML for the site.
+
+[33mcommit 511c4927dbffdaaa781b2c4e3261f3392101f20d[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Sun Jun 19 10:10:24 2016 +0300
+
+    Changed the HTML for the site.
+
+[33mcommit 876ada4c60fbd83d238f19748413c59a23fc46f9[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Sun Jun 12 11:12:21 2016 +0300
+
+    Changed the HTML for the site.
+
+[33mcommit c661e32f53b50972c59311de2209878f7bcf545f[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Thu May 5 09:17:57 2016 +0300
+
+    first commit
+
+[33mcommit 434077709778d9e3e91a6205927eea5b961a3efa[m
+Author: djohne <ljashovsky@ukr.net>
+Date:   Tue Apr 26 07:05:43 2016 +0300
+
+    My Django Boys app, first commit
